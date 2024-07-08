@@ -1,6 +1,7 @@
 import "./assets/styles/style.scss";
 import "remixicon/fonts/remixicon.css";
 import toggleFullScreen from "./utils/fullscreen.js";
+import favIcon from "./utils/favicon.js";
 
 class Stopwatch {
   constructor() {
@@ -87,7 +88,8 @@ class TimeLogic {
     return `${formattedMM}:${formattedSS}:${formattedMS}`;
   }
 }
-
+//Add FavIcon
+favIcon("./assets/images/stopwatch.png");
 //Fullscreen Toggle
 toggleFullScreen();
 //Initialize Stopwatch
