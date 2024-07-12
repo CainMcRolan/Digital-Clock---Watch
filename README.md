@@ -7,7 +7,7 @@ Welcome to **Digital Clock and Stopwatch**, my personal stopwatch and digital cl
 
 ## 🚀 Demo
 
-Check out the live demo of the project [here](https://cainmcrolan.github.io/Exercise-Watch/).
+Check out the live demo of the project [Digital-Clock-And-Watch](https://cainmcrolan.github.io/Digital-Clock-And-Watch/).
 
 ## 🔥 Features
 
